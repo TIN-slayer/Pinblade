@@ -97,6 +97,8 @@ struct EPICLEADERBOARD_API FEpicLeaderboardEntry
 {
 	GENERATED_BODY()
 
+	FEpicLeaderboardEntry() : Rank(0) {}
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int32 Rank;
 
