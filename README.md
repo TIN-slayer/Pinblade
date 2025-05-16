@@ -4,4 +4,4 @@
 
 Тг канал игры: https://t.me/pinblade
 
-Скачать демку можно на https://tin-slayer.itch.io/pinblade?password=4NZ9Yfy3JZp6vcJ
+Скачать игру можно на https://tin-slayer.itch.io/pinblade?password=4NZ9Yfy3JZp6vcJ
